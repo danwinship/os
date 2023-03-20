@@ -14,7 +14,6 @@ ostree-layers:
   - overlay/01fcos
   - overlay/02fcos-nouveau
   - overlay/05rhcos
-  - overlay/06gcp-routes
   - overlay/15rhcos-networkmanager-dispatcher
   - overlay/15rhcos-tuned-bits
   - overlay/20platform-chrony
